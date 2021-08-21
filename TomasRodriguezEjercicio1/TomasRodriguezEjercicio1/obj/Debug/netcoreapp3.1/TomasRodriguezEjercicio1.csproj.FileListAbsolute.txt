@@ -1,0 +1,13 @@
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\bin\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.exe
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\bin\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.deps.json
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\bin\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.runtimeconfig.json
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\bin\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.runtimeconfig.dev.json
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\bin\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.dll
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\bin\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.pdb
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\obj\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.csproj.AssemblyReference.cache
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\obj\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.AssemblyInfoInputs.cache
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\obj\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.AssemblyInfo.cs
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\obj\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\obj\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.dll
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\obj\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.pdb
+C:\Users\Llirako10\Desktop\Programas\Programación\TomasRodriguezEjercicio1\TomasRodriguezEjercicio1\obj\Debug\netcoreapp3.1\TomasRodriguezEjercicio1.genruntimeconfig.cache
